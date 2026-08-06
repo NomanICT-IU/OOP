@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="ClassAndConstructor/ClassAndConstructor.csproj" />
+  <Project Path="PartialClass/PartialClass.csproj" />
+  <Project Path="StringExtensions/StringExtensions.csproj" />
 </Solution>
