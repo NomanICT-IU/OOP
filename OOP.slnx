@@ -1,5 +1,11 @@
 <Solution>
   <Project Path="ClassAndConstructor/ClassAndConstructor.csproj" />
+  <Project Path="Enumeration/Enumeration.csproj" Id="bd579001-baea-4193-a28f-695a40d71257" />
+  <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="b81c36ea-eaff-48a4-b8a9-62bec57d5276" />
+  <Project Path="Inheritance/Inheritance.csproj" Id="044529c2-3b76-439b-b7c0-583bcd16488a" />
+  <Project Path="InheritanceWithNewKeyWord/InheritanceWithNewKeyWord.csproj" Id="6ecb252c-0de3-480b-8fc6-5fa864ac76f7" />
+  <Project Path="NullableType/NullableType.csproj" Id="0b0f15ab-d13b-4117-b1d7-f9c575b71e2b" />
   <Project Path="PartialClass/PartialClass.csproj" />
   <Project Path="StringExtensions/StringExtensions.csproj" />
+  <Project Path="Structures/Structures.csproj" Id="5013ad32-efad-447c-9b08-d23970f4143e" />
 </Solution>
