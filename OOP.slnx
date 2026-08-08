@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Abstract/Abstract.csproj" Id="00cb95d5-5084-41f0-ac43-ee7b1c00f353" />
   <Project Path="ClassAndConstructor/ClassAndConstructor.csproj" />
   <Project Path="Enumeration/Enumeration.csproj" Id="bd579001-baea-4193-a28f-695a40d71257" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="b81c36ea-eaff-48a4-b8a9-62bec57d5276" />
