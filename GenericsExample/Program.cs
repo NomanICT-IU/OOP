@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-            var initializer = new CollectionInitializer<int>(5);
+            var initializer = new CollectionInitializer<int>();
             initializer.AddElementToCollection(1, 2, 3, 4, 5);
-            int[] collection = initializer.RetriveCollection();
+            List<int> collection = initializer.RetriveCollection();
             int retriveNumber = initializer.RetriveElementOnIndex(2);
 
-            for (int i = 0; i < collection.Length; i++)
+            foreach (var item in collection)
             {
-                Console.WriteLine(collection[i]);
+                Console.WriteLine(item);
             }
 
             Console.WriteLine($"Retive Eelement on index {retriveNumber}");

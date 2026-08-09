@@ -2,21 +2,21 @@
 {
     public class CollectionInitializer<T>
     {
-        private T[] collection;
-        public CollectionInitializer(int collectionLength)
+        private List<T> collection;
+        public CollectionInitializer()
         {
-            collection = new T[collectionLength];
+            collection = new List<T>();
         }
 
         public void AddElementToCollection(params T[] elemets)
         {
             for (int i = 0; i < elemets.Length; i++)
             {
-                collection[i] = elemets[i];
+                collection.Add(elemets[i]);
             }
         }
 
-        public T[] RetriveCollection()
+        public List<T> RetriveCollection()
         {
             return collection;
         }
