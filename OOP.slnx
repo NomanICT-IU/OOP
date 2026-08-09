@@ -12,6 +12,7 @@
   <Project Path="NullableType/NullableType.csproj" Id="0b0f15ab-d13b-4117-b1d7-f9c575b71e2b" />
   <Project Path="PartialClass/PartialClass.csproj" />
   <Project Path="QueueCollection/QueueCollection.csproj" Id="95a76e4a-c808-40f3-b7fe-09ad32890eab" />
+  <Project Path="StackCollection/StackCollection.csproj" Id="b0543d95-745c-4959-b19e-97bcb50f5d70" />
   <Project Path="StringExtensions/StringExtensions.csproj" />
   <Project Path="Structures/Structures.csproj" Id="5013ad32-efad-447c-9b08-d23970f4143e" />
 </Solution>
