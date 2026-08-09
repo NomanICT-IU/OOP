@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Abstract/Abstract.csproj" Id="00cb95d5-5084-41f0-ac43-ee7b1c00f353" />
+  <Project Path="ActionDelegate/ActionDelegate.csproj" Id="32f1ec83-f677-438a-a9f3-d94d956a9c70" />
   <Project Path="ClassAndConstructor/ClassAndConstructor.csproj" />
   <Project Path="Delegate/Delegate.csproj" Id="8c52ece2-3e2d-4109-b0b5-90b865804d36" />
   <Project Path="DictionaryCollection/DictionaryCollection.csproj" Id="96b74133-c1ff-49c8-83ef-231e9e4174ea" />
