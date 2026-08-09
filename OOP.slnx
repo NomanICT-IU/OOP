@@ -6,6 +6,7 @@
   <Project Path="GenericMethod/GenericMethod.csproj" Id="a629ad43-5d41-4983-ba60-c3f456bba7e0" />
   <Project Path="Generics/Generics.csproj" Id="b79b5c26-3591-485a-8bd0-09472fced739" />
   <Project Path="GenericsExample/GenericsExample.csproj" Id="a11befe6-5188-4804-b873-0cd1046399c1" />
+  <Project Path="HashTableCollection/HashTableCollection.csproj" Id="7bab65d6-ef10-4665-9f7d-8d864d3696b3" />
   <Project Path="Inheritance/Inheritance.csproj" Id="044529c2-3b76-439b-b7c0-583bcd16488a" />
   <Project Path="InheritanceWithNewKeyWord/InheritanceWithNewKeyWord.csproj" Id="6ecb252c-0de3-480b-8fc6-5fa864ac76f7" />
   <Project Path="Interface/Interface.csproj" Id="1138e627-a3e7-49ac-85a0-8c764200d3f8" />
