@@ -11,6 +11,7 @@
   <Project Path="Interface/Interface.csproj" Id="1138e627-a3e7-49ac-85a0-8c764200d3f8" />
   <Project Path="NullableType/NullableType.csproj" Id="0b0f15ab-d13b-4117-b1d7-f9c575b71e2b" />
   <Project Path="PartialClass/PartialClass.csproj" />
+  <Project Path="QueueCollection/QueueCollection.csproj" Id="95a76e4a-c808-40f3-b7fe-09ad32890eab" />
   <Project Path="StringExtensions/StringExtensions.csproj" />
   <Project Path="Structures/Structures.csproj" Id="5013ad32-efad-447c-9b08-d23970f4143e" />
 </Solution>
