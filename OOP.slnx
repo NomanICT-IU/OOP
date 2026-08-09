@@ -5,6 +5,7 @@
   <Project Path="DictionaryCollection/DictionaryCollection.csproj" Id="96b74133-c1ff-49c8-83ef-231e9e4174ea" />
   <Project Path="Enumeration/Enumeration.csproj" Id="bd579001-baea-4193-a28f-695a40d71257" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="b81c36ea-eaff-48a4-b8a9-62bec57d5276" />
+  <Project Path="FuncDelegate/FuncDelegate.csproj" Id="efe1501b-1890-427f-b93e-f6029de40a24" />
   <Project Path="GenericMethod/GenericMethod.csproj" Id="a629ad43-5d41-4983-ba60-c3f456bba7e0" />
   <Project Path="Generics/Generics.csproj" Id="b79b5c26-3591-485a-8bd0-09472fced739" />
   <Project Path="GenericsExample/GenericsExample.csproj" Id="a11befe6-5188-4804-b873-0cd1046399c1" />
